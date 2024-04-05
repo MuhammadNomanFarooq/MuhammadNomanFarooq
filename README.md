@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Noman</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
+![](https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadnomanfarooq&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadnomanfarooq" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadnomanfarooq" alt="muhammadnomanfarooq" /></a> </p>
